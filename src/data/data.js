@@ -4,6 +4,7 @@ import YoutubeProject from '../assets/projects/youtube-project.jpg';
 import GoogleCloneProject from '../assets/projects/google-clone.png';
 import LinkedinCloneProject from '../assets/projects/linkedin-clone.png';
 import GmailCloneProject from '../assets/projects/gmail-clone.png';
+import AngularFoodOrderApp from '../assets/projects/foodorderapp.jpg';
 
 export const data=[
     {
@@ -33,6 +34,13 @@ export const data=[
         image:GmailCloneProject,
         github:"https://github.com/KSRATHORE761/react-gmail-clone",
         live:"https://clone-57af5.web.app/",
+    },
+    {
+        id:5,
+        name:"Angular Application",
+        image:AngularFoodOrderApp,
+        github:"https://github.com/KSRATHORE761/Angular_FoodOrder_App",
+        live:"https://foodorderapp-fbe47.web.app/",
     }
 
 
